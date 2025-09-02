@@ -10,9 +10,9 @@
   .navbar-caption {
     font-family: "Times New Roman", Times, serif !important;
     font-weight: bold !important;
-    font-size: 1.6rem; /* ajuste o tamanho conforme necessário */
-    color: #d4af37 !important; /* dourado elegante, se quiser combinar com o logo */
-    letter-spacing: 1px; /* espaçamento entre letras (opcional) */
+    font-size: 1.9rem; 
+    color: #d4af37 !important; 
+    letter-spacing: 1px; 
   }
 
   .mbr-section-title {
@@ -20,7 +20,7 @@
   }
 .text-script {
   font-family: 'Great Vibes', cursive !important;
-  font-size: 2.1rem;   /* ajuste conforme seu layout */
-  color: #ffffff !important;  /* dourado, igual ao título */
+  font-size: 2.1rem;  
+  color: #ffffff !important;  
   line-height: 1.4;
 }
