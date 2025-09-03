@@ -1718,6 +1718,8 @@ a {
   padding-bottom: 6rem;
   background-color: #0a3454;
 }
+
+
 @media (max-width: 991px) {
   .cid-tJS9NNcTLZ .container {
     padding: 0 16px;
@@ -1782,6 +1784,11 @@ a {
 .cid-tJS9NNcTLZ header-menu-item {
   color: #ffffff;
   text-align: center;
+}
+.cid-tJS9NNcTLZ .footer1 .programm5  {
+  padding-top: 4rem !important;
+  padding-bottom: 4rem !important;
+
 }
 .cid-uVAZHFfaXj {
   z-index: 1000;
