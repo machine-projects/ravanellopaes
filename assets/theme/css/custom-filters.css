@@ -23,14 +23,14 @@
   color: #ffffff !important;
   line-height: 1.4rem;
 }
-@media(max-width: 768px) {
+@media (max-width: 768px) {
   .text-script {
     font-size: 1.8rem;
     line-height: 1;
   }
-   .mbr-section-title  {
+  .mbr-section-title {
     margin-bottom: 0.5rem !important;
-     font-size: 2.1rem !important;
+    font-size: 2.1rem !important;
   }
 }
 
@@ -137,11 +137,42 @@
     max-height: 30rem;
     margin-bottom: 0.3rem;
     min-width: 12rem;
-        
   }
 }
 
-
-.navbar-caption  .display-4 a{
+.navbar-caption .display-4 a {
   color: #d4af37 !important;
+}
+
+#whatsapp-float {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 1001;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  transition: box-shadow 0.3s;
+}
+
+#whatsapp-float img {
+  border-radius: 0 !important;
+}
+
+#whatsapp-float:hover {
+  filter: brightness(0.95);
+}
+#whatsapp-float svg {
+  display: block;
+}
+@media (max-width: 600px) {
+  #whatsapp-float {
+    right: 16px;
+    bottom: 16px;
+  }
+  #whatsapp-float img {
+    width: 46px !important;
+    height: 46px !important;
+  }
 }
