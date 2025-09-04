@@ -67,7 +67,7 @@
 }
 .testimonials .carousel-control-next-icon,
 .testimonials .carousel-control-prev-icon {
-  background-color: #0a3454;
+  background-color: #05254c;
   border-radius: 50%;
   box-shadow: 0 2px 10px #ffd71155;
 }
@@ -101,7 +101,7 @@
   opacity: 0;
 }
 .testimonials .carousel-indicators [data-bs-target] {
-  background-color: #0a3454;
+  background-color: #05254c;
 }
 .testimonials .mbr-section-title.display-2 {
   letter-spacing: 1px;
